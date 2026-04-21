@@ -4,7 +4,11 @@ Machine-checked proofs for the principal results in:
 
 > **Projection Insufficiency and Trajectory Realization: A Unified Constraint-Based Framework for Bounded Systems**
 >[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19687629.svg)](https://doi.org/10.5281/zenodo.19687629)
-Shawn Kevin Jason, 2026
+
+## Author
+
+Shawn Kevin Jason — Independent Researcher, Las Vegas, NV
+ORCID: [0009-0003-9208-1556](https://orcid.org/0009-0003-9208-1556)
 
 ## Paper
 
