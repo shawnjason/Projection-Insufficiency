@@ -8,7 +8,7 @@ Machine-checked proofs for the principal results in:
 ## Author
 
 Shawn Kevin Jason — Independent Researcher, Las Vegas, NV
-ORCID: [0009-0003-9208-1556](https://orcid.org/0009-0003-9208-1556)
+ORCID: [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0003-9208-1556) [0009-0003-9208-1556](https://orcid.org/0009-0003-9208-1556)
 
 ## Paper
 
